@@ -30,8 +30,8 @@ Users can register, log in, and perform CRUD operations on tasks.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/taskmanager.git
-cd taskmanager
+git clone https://github.com/ayush2034/task-manager.git
+cd task-manager
 ```
 
 2. **Create and activate virtual environment**
